@@ -1,0 +1,1432 @@
+﻿Log file open, 08/07/18 16:55:57
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Demo
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.191433
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +2:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.120s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4233996
+LogInit: Engine Version: 4.20.1-4233996+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU:         Intel(R) Core(TM) i5-2500 CPU @ 3.30GHz, GPU: AMD Radeon HD 5450
+LogInit: Compiled (64-bit): Jul 26 2018 10:07:30
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: -EpicPortal 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.08.07-14.55.57:854][  0]LogInit: Selected Device Profile: [Windows]
+[2018.08.07-14.55.57:855][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.08.07-14.55.57:875][  0]LogHAL: Display: Platform has ~ 10 GB [10693419008 / 17179869184 / 10], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.08.07-14.55.57:875][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.08.07-14.55.57:875][  0]LogInit: Going up to parent DeviceProfile []
+[2018.08.07-14.55.57:876][  0]LogInit: Computer: DESKTOP-PC
+[2018.08.07-14.55.57:876][  0]LogInit: User: User
+[2018.08.07-14.55.57:876][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.08.07-14.55.57:876][  0]LogInit: High frequency timer resolution =3.215366 MHz
+[2018.08.07-14.55.57:876][  0]LogMemory: Memory total: Physical=10.0GB (10GB approx)
+[2018.08.07-14.55.57:876][  0]LogMemory: Platform Memory Stats for Windows
+[2018.08.07-14.55.57:876][  0]LogMemory: Process Physical Memory: 101.37 MB used, 101.37 MB peak
+[2018.08.07-14.55.57:876][  0]LogMemory: Process Virtual Memory: 96.25 MB used, 96.25 MB peak
+[2018.08.07-14.55.57:876][  0]LogMemory: Physical Memory: 4155.20 MB used,  6042.84 MB free, 10198.04 MB total
+[2018.08.07-14.55.57:876][  0]LogMemory: Virtual Memory: 4631.14 MB used,  6042.84 MB free, 134217728.00 MB total
+[2018.08.07-14.55.57:904][  0]LogInit: Using OS detected language (en-US).
+[2018.08.07-14.55.57:904][  0]LogInit: Using OS detected locale (en-US).
+[2018.08.07-14.55.57:905][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.08.07-14.55.58:332][  0]LogStreaming: Display: Took  0.428s to InitEngineTextLocalization.
+[2018.08.07-14.55.58:332][  0]LogInit: Setting process to per monitor DPI aware
+[2018.08.07-14.55.58:360][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.08.07-14.55.58:360][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.08.07-14.55.58:575][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.08.07-14.55.58:575][  0]LogD3D11RHI: D3D11 adapters:
+[2018.08.07-14.55.58:603][  0]LogD3D11RHI:    0. 'AMD Radeon HD 5450' (Feature Level 11_0)
+[2018.08.07-14.55.58:603][  0]LogD3D11RHI:       2034/0/3840 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2018.08.07-14.55.58:606][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.08.07-14.55.58:606][  0]LogD3D11RHI:       0/0/5099 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.08.07-14.55.58:606][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.08.07-14.55.58:610][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.08.07-14.55.58:610][  0]LogD3D11RHI:     GPU DeviceId: 0x68f9 (for the marketing name, search the web for "GPU Device Id")
+[2018.08.07-14.55.58:610][  0]LogWindows: EnumDisplayDevices:
+[2018.08.07-14.55.58:611][  0]LogWindows:    0. 'AMD Radeon HD 5450' (P:1 D:1)
+[2018.08.07-14.55.58:611][  0]LogWindows:    1. 'AMD Radeon HD 5450' (P:0 D:0)
+[2018.08.07-14.55.58:611][  0]LogWindows: DebugString: FoundDriverCount:2 
+[2018.08.07-14.55.58:611][  0]LogD3D11RHI:     Adapter Name: AMD Radeon HD 5450
+[2018.08.07-14.55.58:611][  0]LogD3D11RHI:   Driver Version: Catalyst 15.7.1 (internal:15.200.1062.1004, unified:15.200.1062.1004)
+[2018.08.07-14.55.58:611][  0]LogD3D11RHI:      Driver Date: 8-3-2015
+[2018.08.07-14.55.58:611][  0]LogRHI: Texture pool is 1424 MB (70% of 2034 MB)
+[2018.08.07-14.55.58:631][  0]LogD3D11RHI: AMD Pre GCN architecture detected, some driver workarounds will be in place
+[2018.08.07-14.55.58:639][  0]LogD3D11RHI: Async texture creation enabled
+[2018.08.07-14.55.58:650][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2018.08.07-14.55.58:651][  0]LogShaderCompilers: Guid format shader working directory is -17 characters bigger than the processId version (../../../../../../Users/User/Desktop/Unreal Projects/Demo 4.20/Intermediate/Shaders/WorkingDirectory/1952/).
+[2018.08.07-14.55.58:651][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/User/AppData/Local/Temp/UnrealShaderWorkingDir/06EEE72D45B7BB7F5AB87187CCD64391/'.
+[2018.08.07-14.55.58:916][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.08.07-14.55.58:933][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.08.07-14.55.58:950][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.08.07-14.55.58:966][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.08.07-14.55.58:983][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.08.07-14.55.58:999][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.08.07-14.55.59:015][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.08.07-14.55.59:032][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.08.07-14.55.59:039][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.08.07-14.55.59:133][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.07-14.55.59:133][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.07-14.55.59:133][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.07-14.55.59:133][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.07-14.55.59:133][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.07-14.55.59:133][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.07-14.55.59:133][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.07-14.55.59:133][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.07-14.55.59:133][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.07-14.55.59:133][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.07-14.55.59:133][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.07-14.55.59:133][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.07-14.55.59:133][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.07-14.55.59:133][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.07-14.55.59:133][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.07-14.55.59:133][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.07-14.55.59:133][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.07-14.55.59:133][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.07-14.55.59:135][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.08.07-14.55.59:199][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.08.07-14.55.59:199][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.08.07-14.55.59:228][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.08.07-14.55.59:228][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.08.07-14.55.59:243][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.08.07-14.55.59:258][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.08.07-14.55.59:273][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.08.07-14.55.59:289][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.08.07-14.55.59:300][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.08.07-14.55.59:300][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.08.07-14.55.59:365][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.08.07-14.55.59:365][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.08.07-14.55.59:365][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.08.07-14.56.00:238][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.08.07-14.56.00:304][  0]LogDerivedDataCache: Loaded boot cache 0.07s 71MB C:/Users/User/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.08.07-14.56.00:305][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/User/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.08.07-14.56.00:305][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/User/Desktop/Unreal Projects/Demo 4.20/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.08.07-14.56.00:305][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.08.07-14.56.00:305][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/User/Desktop/Unreal Projects/Demo 4.20/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.08.07-14.56.00:305][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.08.07-14.56.00:320][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.08.07-14.56.00:332][  0]LogDerivedDataCache: Using Local data cache path C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.08.07-14.56.00:332][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.08.07-14.56.00:332][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.08.07-14.56.00:354][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.08.07-14.56.00:355][  0]LogSlate: Using FreeType 2.6.0
+[2018.08.07-14.56.00:356][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.08.07-14.56.00:437][  0]LogAssetRegistry: FAssetRegistry took 0.0270 seconds to start up
+[2018.08.07-14.56.00:848][  0]LogInit: Selected Device Profile: [Windows]
+[2018.08.07-14.56.01:001][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.08.07-14.56.01:004][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.08.07-14.56.01:004][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.08.07-14.56.01:004][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.08.07-14.56.01:004][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.08.07-14.56.01:023][  0]LogNetVersion: Demo 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 4241928935)
+[2018.08.07-14.56.01:101][  0]LogObj: Error: LoadConfig (/Script/Engine.Default__RendererSettings): import failed for bEnableAlphaChannelInPostProcessing in: False
+[2018.08.07-14.56.01:622][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.129180 seconds
+[2018.08.07-14.56.01:630][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.08.07-14.56.01:630][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2018.08.07-14.56.01:630][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.08.07-14.56.02:573][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.08.07-14.56.02:587][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.08.07-14.56.02:742][  0]SourceControl: Source control is disabled
+[2018.08.07-14.56.02:742][  0]SourceControl: Source control is disabled
+[2018.08.07-14.56.02:743][  0]SourceControl: Source control is disabled
+[2018.08.07-14.56.02:745][  0]SourceControl: Source control is disabled
+[2018.08.07-14.56.02:917][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.08.07-14.56.02:960][  0]LogOcInput: OculusInput pre-init called
+[2018.08.07-14.56.03:027][  0]LogEngine: Initializing Engine...
+[2018.08.07-14.56.03:027][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.08.07-14.56.03:029][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.08.07-14.56.03:029][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.08.07-14.56.03:029][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.08.07-14.56.03:029][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.08.07-14.56.03:319][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.08.07-14.56.03:332][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.08.07-14.56.03:339][  0]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.07-14.56.03:359][  0]LogInit: FAudioDevice initialized.
+[2018.08.07-14.56.03:359][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.08.07-14.56.03:743][  0]LogDerivedDataCache: Saved boot cache 0.38s 71MB C:/Users/User/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.08.07-14.56.03:747][  0]LogInit: Texture streaming: Enabled
+[2018.08.07-14.56.03:765][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.08.07-14.56.03:778][  0]LogInit: Transaction tracking system initialized
+[2018.08.07-14.56.03:803][  0]BlueprintLog: New page: Editor Load
+[2018.08.07-14.56.03:885][  0]LocalizationService: Localization service is disabled
+[2018.08.07-14.56.04:167][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.08.07-14.56.04:167][  0]LogCook: Display: Mobile HDR setting 1
+[2018.08.07-14.56.04:167][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.08.07-14.56.04:167][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.08.07-14.56.04:167][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.08.07-14.56.04:167][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.08.07-14.56.04:167][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.08.07-14.56.04:296][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Desktop/Unreal Projects/Demo 4.20/Content/' took 0.02s
+[2018.08.07-14.56.04:297][  0]SourceControl: Source control is disabled
+[2018.08.07-14.56.04:297][  0]Cmd: MAP LOAD FILE="../../../../../../Users/User/Desktop/Unreal Projects/Demo 4.20/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.08.07-14.56.04:297][  0]LightingResults: New page: Lighting Build
+[2018.08.07-14.56.04:300][  0]MapCheck: New page: Map Check
+[2018.08.07-14.56.04:300][  0]LightingResults: New page: Lighting Build
+[2018.08.07-14.56.05:647][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.08.07-14.56.05:664][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.08.07-14.56.05:694][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.08.07-14.56.05:810][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 116.096ms to complete.
+[2018.08.07-14.56.05:810][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 1.514
+[2018.08.07-14.56.05:911][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.07-14.56.05:920][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.07-14.56.05:929][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.07-14.56.05:938][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.07-14.56.05:948][  0]LogCollectionManager: Loaded 0 collections in 0.002151 seconds
+[2018.08.07-14.56.05:988][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Desktop/Unreal Projects/Demo 4.20/Saved/Collections/' took 0.01s
+[2018.08.07-14.56.05:988][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Desktop/Unreal Projects/Demo 4.20/Content/Developers/User/Collections/' took 0.01s
+[2018.08.07-14.56.05:988][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Desktop/Unreal Projects/Demo 4.20/Content/Collections/' took 0.01s
+[2018.08.07-14.56.05:988][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.08.07-14.56.05:999][  0]LogContentBrowser: Native class hierarchy populated in 0.0107 seconds. Added 2572 classes and 603 folders.
+[2018.08.07-14.56.06:006][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.08.07-14.56.06:413][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.08.07-14.56.06:419][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.08.07-14.56.06:514][  0]LogSlate: Took 0.000209 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.08.07-14.56.06:516][  0]LogSlate: Took 0.000195 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.08.07-14.56.06:527][  0]LogSlate: Took 0.005249 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.08.07-14.56.06:666][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.08.07-14.56.07:143][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.08.07-14.56.07:144][  0]LogLoad: (Engine Initialization) Total time: 11.11 seconds
+[2018.08.07-14.56.07:144][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.08.07-14.56.07:154][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.08.07-14.56.07:177][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2018.08.07-14.56.07:220][  0]LogSlate: Took 0.004180 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.08.07-14.56.07:255][  1]LogD3D11RHI: Error: agsDriverExtensionsDX11_SetDepthBounds(1,0.000000, 1.000000) returned error code 6. **********PLEASE UPDATE YOUR VIDEO DRIVERS*********
+[2018.08.07-14.56.07:255][  1]LogAssetRegistry: Asset discovery search completed in 6.8399 seconds
+[2018.08.07-14.56.07:257][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.08.07-14.56.07:257][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000109 seconds (updated 0 objects)
+[2018.08.07-14.56.11:810][  4]LogSlate: Took 0.000257 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.08.07-14.56.17:284][ 26]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.07-14.56.21:348][ 38]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprint/Zombie_BP.Zombie_BP
+[2018.08.07-14.56.22:008][ 38]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 116 classes and 0 folders.
+[2018.08.07-14.56.23:094][ 38]LogSlate: Took 0.000229 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.08.07-14.56.23:200][ 39]LogSlate: Took 0.000248 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.08.07-14.56.26:995][ 87]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprint/minimon_BP.minimon_BP
+[2018.08.07-14.56.53:502][518]LogRenderer: Reallocating scene render targets to support 1208x712 Format 10 NumSamples 1 (Frame:1).
+[2018.08.07-14.57.17:170][714]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.08.07-14.57.18:678][714]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Models/backpack.backpack
+[2018.08.07-14.57.19:681][714]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.08.07-14.57.21:993][715]LogRenderer: Reallocating scene render targets to support 1432x924 Format 10 NumSamples 1 (Frame:1).
+[2018.08.07-14.57.31:113][719]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.08.07-14.57.33:925][719]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/backpack" FILE="../../../../../../Users/User/Desktop/Unreal Projects/Demo 4.20/Content/Models/backpack.uasset" SILENT=true
+[2018.08.07-14.57.33:972][719]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Unreal Projects/Demo 4.20/Saved/backpack88914C104A955D57B192A0B0135DB828.tmp' to '../../../../../../Users/User/Desktop/Unreal Projects/Demo 4.20/Content/Models/backpack.uasset'
+[2018.08.07-14.57.51:656][817]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.07-14.57.57:096][825]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.08.07-14.58.18:339][894]LogSlate: Window 'Delete Assets' being destroyed
+[2018.08.07-14.59.23:149][382]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.08.07-15.01.06:848][839]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.08.07-15.01.14:230][847]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.08.07-15.01.27:290][926]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.08.07-15.01.35:628][964]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.08.07-15.02.03:482][289]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.08.07-15.02.03:486][289]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Models/backpack.backpack
+[2018.08.07-15.02.04:489][289]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.08.07-15.02.05:950][289]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.08.07-15.02.16:507][294]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.08.07-15.02.17:510][294]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.08.07-15.02.18:022][295]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.08.07-15.02.19:027][295]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.08.07-15.02.19:539][296]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.08.07-15.02.32:235][417]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.08.07-15.02.33:240][417]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.08.07-15.02.34:251][418]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.08.07-15.02.36:352][418]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.08.07-15.03.09:258][554]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.08.07-15.04.20:736][890]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.08.07-15.04.21:744][890]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.08.07-15.06.14:104][218]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Unreal Projects/Demo 4.20/Saved/FirstPersonExampleMap_Auto1951F781E43EFB968ECE965A60DAEADBF.tmp' to '../../../../../../Users/User/Desktop/Unreal Projects/Demo 4.20/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.umap'
+[2018.08.07-15.06.14:109][218]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.360
+[2018.08.07-15.06.14:109][218]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.360
+[2018.08.07-15.06.14:124][218]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint/Zombie_BP] ([1] browsable assets)...
+[2018.08.07-15.06.14:240][218]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprint/Zombie_BP.Zombie_BP]
+[2018.08.07-15.06.14:240][218]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Zombie_BP]
+[2018.08.07-15.06.14:341][218]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Unreal Projects/Demo 4.20/Saved/Zombie_BP_Auto18A9C4166462A8E773DC29AA7B01D1E3E.tmp' to '../../../../../../Users/User/Desktop/Unreal Projects/Demo 4.20/Saved/Autosaves/Game/Blueprint/Zombie_BP_Auto1.uasset'
+[2018.08.07-15.06.14:343][218]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint/minimon_BP] ([1] browsable assets)...
+[2018.08.07-15.06.14:519][218]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprint/minimon_BP.minimon_BP]
+[2018.08.07-15.06.14:519][218]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/minimon_BP]
+[2018.08.07-15.06.14:562][218]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Unreal Projects/Demo 4.20/Saved/minimon_BP_Auto14EC86A7845E917B26D42D08656C800CB.tmp' to '../../../../../../Users/User/Desktop/Unreal Projects/Demo 4.20/Saved/Autosaves/Game/Blueprint/minimon_BP_Auto1.uasset'
+[2018.08.07-15.06.14:564][218]LogFileHelpers: Auto-saving content packages took 0.440
+[2018.08.07-15.35.40:052][521]BlueprintLog: New page: Compile Zombie_BP
+[2018.08.07-15.35.42:012][525]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.08.07-15.35.43:020][525]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.08.07-15.35.47:667][538]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.08.07-15.36.11:162][594]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Unreal Projects/Demo 4.20/Saved/FirstPersonExampleMap_Auto237EB05B142447A61C5B401A077758EC7.tmp' to '../../../../../../Users/User/Desktop/Unreal Projects/Demo 4.20/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.umap'
+[2018.08.07-15.36.11:166][594]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.338
+[2018.08.07-15.36.11:167][594]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.338
+[2018.08.07-15.36.11:169][594]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint/Zombie_BP] ([1] browsable assets)...
+[2018.08.07-15.36.11:305][594]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprint/Zombie_BP.Zombie_BP]
+[2018.08.07-15.36.11:305][594]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Zombie_BP]
+[2018.08.07-15.36.11:401][594]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Unreal Projects/Demo 4.20/Saved/Zombie_BP_Auto2ABAFBC624D740C40449387B4CCEBF821.tmp' to '../../../../../../Users/User/Desktop/Unreal Projects/Demo 4.20/Saved/Autosaves/Game/Blueprint/Zombie_BP_Auto2.uasset'
+[2018.08.07-15.36.11:402][594]LogFileHelpers: Auto-saving content packages took 0.234
+[2018.08.07-16.16.48:321][798]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.08.07-16.16.53:935][811]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.08.07-16.17.03:187][904]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.08.07-16.17.03:259][904]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Character/Zombie/Zombie_Scratch_Idle.Zombie_Scratch_Idle
+[2018.08.07-16.17.03:259][904]LogAnimationCompression: Recompressing (AnimSequence /Game/Character/Zombie/Zombie_Scratch_Idle.Zombie_Scratch_Idle) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.08.07-16.17.03:262][904]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Character/Zombie/Zombie_Agonizing_Anim_mixamo_com.Zombie_Agonizing_Anim_mixamo_com
+[2018.08.07-16.17.03:262][904]LogAnimationCompression: Recompressing (AnimSequence /Game/Character/Zombie/Zombie_Agonizing_Anim_mixamo_com.Zombie_Agonizing_Anim_mixamo_com) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.08.07-16.17.03:264][904]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Character/Zombie/Zombie_Dying_Anim_mixamo_com.Zombie_Dying_Anim_mixamo_com
+[2018.08.07-16.17.03:264][904]LogAnimationCompression: Recompressing (AnimSequence /Game/Character/Zombie/Zombie_Dying_Anim_mixamo_com.Zombie_Dying_Anim_mixamo_com) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.08.07-16.17.03:380][904]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Character/Zombie/Zombie_Idle__1_.Zombie_Idle__1_
+[2018.08.07-16.17.03:380][904]LogAnimationCompression: Recompressing (AnimSequence /Game/Character/Zombie/Zombie_Idle__1_.Zombie_Idle__1_) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.08.07-16.17.03:383][904]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Character/Zombie/Zombie_Idle.Zombie_Idle
+[2018.08.07-16.17.03:383][904]LogAnimationCompression: Recompressing (AnimSequence /Game/Character/Zombie/Zombie_Idle.Zombie_Idle) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.08.07-16.17.03:386][904]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Character/Zombie/Zombie_Neck_Bite_Anim_mixamo_com.Zombie_Neck_Bite_Anim_mixamo_com
+[2018.08.07-16.17.03:386][904]LogAnimationCompression: Recompressing (AnimSequence /Game/Character/Zombie/Zombie_Neck_Bite_Anim_mixamo_com.Zombie_Neck_Bite_Anim_mixamo_com) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.08.07-16.17.03:388][904]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Character/Zombie/Walking_Anim_mixamo_com.Walking_Anim_mixamo_com
+[2018.08.07-16.17.03:388][904]LogAnimationCompression: Recompressing (AnimSequence /Game/Character/Zombie/Walking_Anim_mixamo_com.Walking_Anim_mixamo_com) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.08.07-16.17.03:390][904]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Character/Zombie/Zombie_Run_Anim_mixamo_com.Zombie_Run_Anim_mixamo_com
+[2018.08.07-16.17.03:390][904]LogAnimationCompression: Recompressing (AnimSequence /Game/Character/Zombie/Zombie_Run_Anim_mixamo_com.Zombie_Run_Anim_mixamo_com) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.08.07-16.17.19:469][950]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.08.07-16.17.46:168][ 19]LogClass: Warning: In asset 'None', there is an enum property of type 'EAnimationMode' with an invalid value of ''
+[2018.08.07-16.17.46:168][ 19]LogClass: Warning: In asset 'None', there is an enum property of type 'EAnimationMode' with an invalid value of ''
+[2018.08.07-16.17.46:168][ 19]LogClass: Warning: In asset 'None', there is an enum property of type 'EAnimationMode' with an invalid value of ''
+[2018.08.07-16.17.57:572][219]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.08.07-16.18.05:022][277]BlueprintLog: New page: Compile Zombie_BP
+[2018.08.07-16.18.07:360][284]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Zombie_BP" FILE="../../../../../../Users/User/Desktop/Unreal Projects/Demo 4.20/Content/Blueprint/Zombie_BP.uasset" SILENT=true
+[2018.08.07-16.18.07:459][284]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Unreal Projects/Demo 4.20/Saved/Zombie_BPAA5C9D01468C2A53E502F7B571B3299D.tmp' to '../../../../../../Users/User/Desktop/Unreal Projects/Demo 4.20/Content/Blueprint/Zombie_BP.uasset'
+[2018.08.07-16.18.33:109][362]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Unreal Projects/Demo 4.20/Saved/FirstPersonExampleMap_Auto367636AC8445DC1EE3CB4E5A1DF6E2FAB.tmp' to '../../../../../../Users/User/Desktop/Unreal Projects/Demo 4.20/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto3.umap'
+[2018.08.07-16.18.33:114][362]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.372
+[2018.08.07-16.18.33:114][362]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.372
+[2018.08.07-16.21.55:192][142]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.07-16.21.55:193][142]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.07-16.21.55:229][142]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.08.07-16.21.55:230][142]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.08.07-16.21.55:231][142]LogPlayLevel: [PlayLevel] Compiling minimon_BP before play...
+[2018.08.07-16.21.55:460][142]LogPlayLevel: PlayLevel: Blueprint regeneration took 230 ms (1 blueprints)
+[2018.08.07-16.21.55:473][142]PIE: New page: PIE session: FirstPersonExampleMap (Aug 7, 2018, 8:21:55 PM)
+[2018.08.07-16.21.55:474][142]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.08.07-16.21.55:493][142]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019672s)
+[2018.08.07-16.21.55:494][142]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.08.07-16.21.55:495][142]LogPlayLevel: PIE: World Init took: (0.000948s)
+[2018.08.07-16.21.55:495][142]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.020873s)
+[2018.08.07-16.21.55:532][142]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.07-16.21.55:541][142]LogInit: FAudioDevice initialized.
+[2018.08.07-16.21.55:597][142]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.08.07-16.21.55:601][142]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.08.07-18.21.55
+[2018.08.07-16.21.55:603][142]LogWorld: Bringing up level for play took: 0.004298
+[2018.08.07-16.21.55:621][142]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 10 classes and 0 folders.
+[2018.08.07-16.21.55:631][142]LogSlate: New Slate User Created.  User Index 1, Is Virtual User: 0
+[2018.08.07-16.21.55:631][142]LogSlate: Slate User Registered.  User Index 1, Is Virtual User: 0
+[2018.08.07-16.21.55:635][142]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.159
+[2018.08.07-16.21.55:636][142]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.08.07-16.21.55:638][142]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.21.55:638][142]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.21.56:470][143]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.21.56:470][143]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.21.56:484][144]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.21.56:485][144]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.21.56:503][145]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.21.56:503][145]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.21.56:697][146]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.21.56:697][146]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.21.57:106][147]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.21.57:106][147]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.21.57:331][148]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.21.57:331][148]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.21.57:551][149]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.21.57:551][149]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.21.57:766][150]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.21.57:766][150]LogScript: Warning: Script Msg: Modulo by zero
+[2018.08.07-16.21.57:766][150]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.21.57:767][150]LogScript: Warning: Script Msg: Modulo by zero
+[2018.08.07-16.21.57:961][151]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.21.57:961][151]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.21.58:152][152]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.21.58:350][153]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.21.58:549][154]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.21.58:773][155]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.21.58:972][156]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.21.59:194][157]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.21.59:415][158]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.21.59:638][159]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.21.59:844][160]LogScript: Warning: Script Msg: Modulo by zero
+[2018.08.07-16.21.59:844][160]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.21.59:844][160]LogScript: Warning: Script Msg: Modulo by zero
+[2018.08.07-16.22.00:302][161]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.22.00:325][162]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.22.00:553][163]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.22.00:762][164]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.22.00:995][165]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.22.01:226][166]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.22.01:461][167]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.22.01:693][168]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.22.01:927][169]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.22.01:927][169]LogScript: Warning: Script Msg: Modulo by zero
+[2018.08.07-16.22.02:159][170]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.22.02:392][171]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.22.02:622][172]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.22.02:854][173]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.22.03:093][174]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.22.03:329][175]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.22.03:566][176]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.22.03:803][177]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.22.04:040][178]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.22.04:040][178]LogScript: Warning: Script Msg: Modulo by zero
+[2018.08.07-16.22.04:275][179]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.22.04:509][180]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.22.04:744][181]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.22.04:978][182]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.22.05:216][183]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.22.05:449][184]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.22.05:684][185]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.22.05:919][186]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.22.06:154][187]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.22.06:154][187]LogScript: Warning: Script Msg: Modulo by zero
+[2018.08.07-16.22.06:412][188]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.22.06:648][189]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.22.06:881][190]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.22.07:117][191]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.22.07:350][192]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.22.08:290][196]LogScript: Warning: Script Msg: Modulo by zero
+[2018.08.07-16.22.10:850][207]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-297.540 Y=-1660.565 Z=141.432] for [FirstPersonProjectile_C]
+[2018.08.07-16.22.11:560][210]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.22.11:795][211]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.22.12:030][212]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.22.12:265][213]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.22.13:564][218]LogScript: Warning: Script Msg: Modulo by zero
+[2018.08.07-16.22.13:856][219]LogScript: Warning: Script Msg: Modulo by zero
+[2018.08.07-16.22.17:006][231]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-271.695 Y=-1652.756 Z=143.943] for [FirstPersonProjectile_C]
+[2018.08.07-16.22.17:242][232]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-269.050 Y=-1646.730 Z=150.840] for [FirstPersonProjectile_C]
+[2018.08.07-16.22.17:949][235]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-247.107 Y=-1613.505 Z=157.708] for [FirstPersonProjectile_C]
+[2018.08.07-16.22.18:702][238]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-239.244 Y=-1598.064 Z=166.546] for [FirstPersonProjectile_C]
+[2018.08.07-16.22.19:194][240]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-239.071 Y=-1596.640 Z=167.237] for [FirstPersonProjectile_C]
+[2018.08.07-16.22.19:931][243]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-241.845 Y=-1610.505 Z=165.946] for [FirstPersonProjectile_C]
+[2018.08.07-16.22.19:932][243]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.22.20:174][244]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.22.21:869][251]LogScript: Warning: Script Msg: Modulo by zero
+[2018.08.07-16.22.22:588][254]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.08.07-16.22.22:588][254]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.07-16.22.22:867][254]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.07-16.22.22:868][254]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.08.07-16.22.22:902][254]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.07-16.22.23:318][255]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2018.08.07-16.22.24:926][260]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.07-16.22.30:629][271]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.08.07-16.22.31:640][271]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.08.07-16.22.43:806][300]BlueprintLog: New page: Compile Zombie_BP
+[2018.08.07-16.22.45:676][303]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.08.07-16.22.46:681][303]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.08.07-16.22.48:841][303]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Zombie_BP" FILE="../../../../../../Users/User/Desktop/Unreal Projects/Demo 4.20/Content/Blueprint/Zombie_BP.uasset" SILENT=true
+[2018.08.07-16.22.48:931][303]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Unreal Projects/Demo 4.20/Saved/Zombie_BP5A22A19843C8B6E09A66D985D3E4A359.tmp' to '../../../../../../Users/User/Desktop/Unreal Projects/Demo 4.20/Content/Blueprint/Zombie_BP.uasset'
+[2018.08.07-16.26.56:101][243]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/Character/Zombie/AnimBP_Zombie.AnimBP_Zombie
+[2018.08.07-16.26.56:184][243]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.08.07-16.26.56:220][243]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.08.07-16.26.56:226][243]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2018.08.07-16.26.56:581][243]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.08.07-16.26.57:271][243]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0004 seconds. Added 1 classes and 0 folders.
+[2018.08.07-16.27.03:490][256]LogSlate: Window 'AnimBP_Zombie' being destroyed
+[2018.08.07-16.27.17:607][304]LogAssetEditorManager: Opening Asset editor for BlendSpace1D /Game/Character/Zombie/BS_Zombie.BS_Zombie
+[2018.08.07-16.27.17:708][304]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.08.07-16.27.17:747][304]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.08.07-16.27.18:763][305]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.08.07-16.27.19:271][305]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.08.07-16.29.25:830][746]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Unreal Projects/Demo 4.20/Saved/FirstPersonExampleMap_Auto45F126E98468AEC11429F478DA2C11FF3.tmp' to '../../../../../../Users/User/Desktop/Unreal Projects/Demo 4.20/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto4.umap'
+[2018.08.07-16.29.25:836][746]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.396
+[2018.08.07-16.29.25:836][746]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.396
+[2018.08.07-16.29.25:857][746]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint/Zombie_BP] ([1] browsable assets)...
+[2018.08.07-16.29.26:007][746]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprint/Zombie_BP.Zombie_BP]
+[2018.08.07-16.29.26:007][746]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Zombie_BP]
+[2018.08.07-16.29.26:112][746]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Unreal Projects/Demo 4.20/Saved/Zombie_BP_Auto4FE975169468A35F3E6F1D596635CEFB9.tmp' to '../../../../../../Users/User/Desktop/Unreal Projects/Demo 4.20/Saved/Autosaves/Game/Blueprint/Zombie_BP_Auto4.uasset'
+[2018.08.07-16.29.26:114][746]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/minimon_BP] ([1] browsable assets)...
+[2018.08.07-16.29.26:114][746]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/minimon_BP]
+[2018.08.07-16.29.26:146][746]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Unreal Projects/Demo 4.20/Saved/minimon_BP_Auto490D94062472A495E7B9D75A8B97B0E9D.tmp' to '../../../../../../Users/User/Desktop/Unreal Projects/Demo 4.20/Saved/Autosaves/Game/Blueprint/minimon_BP_Auto4.uasset'
+[2018.08.07-16.29.26:147][746]LogFileHelpers: Auto-saving content packages took 0.291
+[2018.08.07-16.37.50:804][269]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.08.07-16.37.51:815][269]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.08.07-16.38.33:967][395]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.08.07-16.38.34:970][395]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.08.07-16.38.35:473][396]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.08.07-16.38.36:477][396]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.08.07-16.38.36:978][397]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.08.07-16.38.38:546][397]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.08.07-16.39.01:596][471]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.08.07-16.39.02:600][471]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.08.07-16.39.03:102][472]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.08.07-16.39.03:604][472]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.08.07-16.39.23:274][533]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.08.07-16.39.39:351][583]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.08.07-16.39.40:363][583]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.08.07-16.40.15:582][691]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.039
+[2018.08.07-16.40.15:584][691]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Zombie/AnimBP_Zombie] ([1] browsable assets)...
+[2018.08.07-16.40.15:782][691]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Character/Zombie/AnimBP_Zombie.AnimBP_Zombie]
+[2018.08.07-16.40.15:783][691]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Zombie/AnimBP_Zombie]
+[2018.08.07-16.40.15:878][691]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Unreal Projects/Demo 4.20/Saved/AnimBP_Zombie_Auto530A9AFE74D2F604A6E6620821A833887.tmp' to '../../../../../../Users/User/Desktop/Unreal Projects/Demo 4.20/Saved/Autosaves/Game/Character/Zombie/AnimBP_Zombie_Auto5.uasset'
+[2018.08.07-16.40.15:879][691]LogFileHelpers: Auto-saving content packages took 0.296
+[2018.08.07-16.41.01:394][834]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.08.07-16.41.02:405][834]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.08.07-16.41.22:289][899]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.08.07-16.41.23:291][899]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.08.07-16.41.23:793][900]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.08.07-16.41.24:799][900]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.08.07-16.41.47:101][ 37]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.08.07-16.42.51:949][421]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.08.07-16.42.52:951][421]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.08.07-16.42.53:954][422]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.08.07-16.43.32:923][355]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Zombie_BP" FILE="../../../../../../Users/User/Desktop/Unreal Projects/Demo 4.20/Content/Blueprint/Zombie_BP.uasset" SILENT=true
+[2018.08.07-16.43.33:026][355]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Unreal Projects/Demo 4.20/Saved/Zombie_BP75D96A6F4A1176F5A713539192F0AEC0.tmp' to '../../../../../../Users/User/Desktop/Unreal Projects/Demo 4.20/Content/Blueprint/Zombie_BP.uasset'
+[2018.08.07-16.45.35:630][656]LogSlate: Took 0.019110 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.08.07-16.45.51:681][ 54]BlueprintLog: New page: Compile Zombie_BP
+[2018.08.07-16.45.51:762][ 54]LogBlueprint: Error: [Compiler Zombie_BP] This blueprint (self) is not a CharacterMovementComponent, therefore ' Target ' must have a connection.
+[2018.08.07-16.45.51:766][ 54]LogBlueprint: Error: [Compiler Zombie_BP] Variable node  Set MaxWalkSpeed  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2018.08.07-16.45.52:011][ 54]LogBlueprint: Warning: [Compiler Zombie_BP] [6595.98] Compile of Zombie_BP failed. 2 Fatal Issue(s) 0 Warning(s) [in 330 ms] (/Game/Blueprint/Zombie_BP.Zombie_BP)
+[2018.08.07-16.46.15:197][716]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Zombie_BP" FILE="../../../../../../Users/User/Desktop/Unreal Projects/Demo 4.20/Content/Blueprint/Zombie_BP.uasset" SILENT=true
+[2018.08.07-16.46.15:293][716]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Unreal Projects/Demo 4.20/Saved/Zombie_BP9362E6664B04B682E63124A13322EB79.tmp' to '../../../../../../Users/User/Desktop/Unreal Projects/Demo 4.20/Content/Blueprint/Zombie_BP.uasset'
+[2018.08.07-16.46.20:739][876]BlueprintLog: New page: Compile Zombie_BP
+[2018.08.07-16.46.20:817][876]LogBlueprint: Error: [Compiler Zombie_BP] This blueprint (self) is not a CharacterMovementComponent, therefore ' Target ' must have a connection.
+[2018.08.07-16.46.20:821][876]LogBlueprint: Error: [Compiler Zombie_BP] Variable node  Set MaxWalkSpeed  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2018.08.07-16.46.21:046][876]LogBlueprint: Warning: [Compiler Zombie_BP] [6625.01] Compile of Zombie_BP failed. 2 Fatal Issue(s) 0 Warning(s) [in 306 ms] (/Game/Blueprint/Zombie_BP.Zombie_BP)
+[2018.08.07-16.48.46:660][906]BlueprintLog: New page: Compile Zombie_BP
+[2018.08.07-16.48.46:739][906]LogBlueprint: Error: [Compiler Zombie_BP] This blueprint (self) is not a CharacterMovementComponent, therefore ' Target ' must have a connection.
+[2018.08.07-16.48.46:743][906]LogBlueprint: Error: [Compiler Zombie_BP] Variable node  Set MaxWalkSpeed  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2018.08.07-16.48.46:980][906]LogBlueprint: Warning: [Compiler Zombie_BP] [6770.95] Compile of Zombie_BP failed. 2 Fatal Issue(s) 0 Warning(s) [in 319 ms] (/Game/Blueprint/Zombie_BP.Zombie_BP)
+[2018.08.07-16.50.18:367][871]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.08.07-16.51.11:618][221]BlueprintLog: New page: Compile AnimBP_Zombie
+[2018.08.07-16.51.12:978][224]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Zombie/AnimBP_Zombie" FILE="../../../../../../Users/User/Desktop/Unreal Projects/Demo 4.20/Content/Character/Zombie/AnimBP_Zombie.uasset" SILENT=true
+[2018.08.07-16.51.13:071][224]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Unreal Projects/Demo 4.20/Saved/AnimBP_Zombie38BBBB9945D44753380EC5ABAB8A50DE.tmp' to '../../../../../../Users/User/Desktop/Unreal Projects/Demo 4.20/Content/Character/Zombie/AnimBP_Zombie.uasset'
+[2018.08.07-16.51.23:276][344]BlueprintLog: New page: Compile Zombie_BP
+[2018.08.07-16.51.39:314][790]BlueprintLog: New page: Compile Zombie_BP
+[2018.08.07-16.51.40:466][806]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Zombie_BP" FILE="../../../../../../Users/User/Desktop/Unreal Projects/Demo 4.20/Content/Blueprint/Zombie_BP.uasset" SILENT=true
+[2018.08.07-16.51.40:566][806]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Unreal Projects/Demo 4.20/Saved/Zombie_BP5830EA224B55F23A22A1FDBD11E9C397.tmp' to '../../../../../../Users/User/Desktop/Unreal Projects/Demo 4.20/Content/Blueprint/Zombie_BP.uasset'
+[2018.08.07-16.51.44:282][879]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.07-16.51.44:321][879]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.08.07-16.51.44:321][879]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.07-16.51.44:321][879]PIE: New page: PIE session: FirstPersonExampleMap (Aug 7, 2018, 8:51:44 PM)
+[2018.08.07-16.51.44:322][879]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.08.07-16.51.44:343][879]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021297s)
+[2018.08.07-16.51.44:344][879]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.08.07-16.51.44:344][879]LogPlayLevel: PIE: World Init took: (0.000853s)
+[2018.08.07-16.51.44:344][879]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.022388s)
+[2018.08.07-16.51.44:626][879]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.07-16.51.44:636][879]LogInit: FAudioDevice initialized.
+[2018.08.07-16.51.44:666][879]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.08.07-16.51.44:670][879]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.08.07-18.51.44
+[2018.08.07-16.51.44:671][879]LogWorld: Bringing up level for play took: 0.004207
+[2018.08.07-16.51.44:696][879]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.902
+[2018.08.07-16.51.44:696][879]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.08.07-16.51.44:698][879]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.51.44:698][879]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.51.44:722][880]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.51.44:723][880]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.51.45:355][881]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.51.45:368][882]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.51.45:731][883]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.51.45:928][884]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.51.46:126][885]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.51.46:324][886]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.51.46:522][887]LogScript: Warning: Script Msg: Modulo by zero
+[2018.08.07-16.51.46:522][887]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.51.46:522][887]LogScript: Warning: Script Msg: Modulo by zero
+[2018.08.07-16.51.46:742][888]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.51.46:939][889]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.51.47:136][890]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.51.47:329][891]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.51.47:526][892]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.51.47:721][893]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.51.47:919][894]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.51.48:113][895]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.51.48:310][896]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.51.48:507][897]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.51.48:700][898]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.51.48:700][898]LogScript: Warning: Script Msg: Modulo by zero
+[2018.08.07-16.51.48:895][899]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.51.49:093][900]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.51.49:290][901]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.51.49:487][902]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.51.49:684][903]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.51.49:882][904]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.51.50:078][905]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.51.50:274][906]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.51.50:275][906]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.51.50:471][907]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.51.50:471][907]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.51.50:690][908]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.51.50:866][909]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.51.50:866][909]LogScript: Warning: Script Msg: Modulo by zero
+[2018.08.07-16.51.51:064][910]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.51.51:257][911]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.51.51:452][912]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.51.51:650][913]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.51.51:848][914]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.51.52:045][915]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.51.52:242][916]LogScript: Warning: Script Msg: Modulo by zero
+[2018.08.07-16.51.52:242][916]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.51.52:440][917]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.51.52:636][918]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.51.52:833][919]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.51.53:031][920]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.51.53:031][920]LogScript: Warning: Script Msg: Modulo by zero
+[2018.08.07-16.51.53:228][921]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.51.53:424][922]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.51.53:622][923]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.51.53:840][924]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.51.54:036][925]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.51.54:233][926]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.51.54:429][927]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.51.54:625][928]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.51.54:821][929]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.51.55:019][930]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.51.55:216][931]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.51.55:216][931]LogScript: Warning: Script Msg: Modulo by zero
+[2018.08.07-16.51.55:415][932]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.51.55:806][933]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.51.56:002][934]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.51.56:226][935]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.51.56:444][936]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.51.56:666][937]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.51.56:863][938]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.51.57:082][939]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.51.57:300][940]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.51.57:300][940]LogScript: Warning: Script Msg: Modulo by zero
+[2018.08.07-16.51.57:498][941]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.51.57:699][942]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.51.57:918][943]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.51.58:138][944]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.51.58:356][945]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.51.58:551][946]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.51.58:773][947]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-16.51.58:776][947]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.08.07-16.51.58:777][947]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.07-16.51.59:032][947]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.07-16.51.59:032][947]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.08.07-16.51.59:069][947]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.07-16.51.59:096][948]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2018.08.07-16.52.42:408][ 38]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Unreal Projects/Demo 4.20/Saved/FirstPersonExampleMap05F7404D4201C5F556D9A996AD00AA7E.tmp' to '../../../../../../Users/User/Desktop/Unreal Projects/Demo 4.20/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.08.07-16.52.43:154][ 38]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Unreal Projects/Demo 4.20/Saved/FirstPersonExampleMap_BuiltDataC1CB617F493E6A81A8998E9E2C3AD7BB.tmp' to '../../../../../../Users/User/Desktop/Unreal Projects/Demo 4.20/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.08.07-16.52.54:320][109]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.08.07-16.52.55:325][109]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.08.07-16.52.59:415][128]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.08.07-16.53.00:419][128]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.08.07-16.53.52:984][463]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.08.07-16.54.59:641][700]BlueprintLog: New page: Compile AnimBP_Zombie
+[2018.08.07-16.55.12:901][773]LogEditorTransaction: Undo Move Node
+[2018.08.07-16.55.13:097][773]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.08.07-16.55.13:918][775]LogEditorTransaction: Undo Delete current selection
+[2018.08.07-16.55.14:115][775]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.08.07-16.55.21:666][818]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.08.07-16.55.29:608][858]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.08.07-16.55.38:939][914]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.08.07-16.55.50:346][994]BlueprintLog: New page: Compile AnimBP_Zombie
+[2018.08.07-16.55.52:222][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Zombie/AnimBP_Zombie" FILE="../../../../../../Users/User/Desktop/Unreal Projects/Demo 4.20/Content/Character/Zombie/AnimBP_Zombie.uasset" SILENT=true
+[2018.08.07-16.55.52:307][  1]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Unreal Projects/Demo 4.20/Saved/AnimBP_Zombie16FF267442633A93867AAAA281B43477.tmp' to '../../../../../../Users/User/Desktop/Unreal Projects/Demo 4.20/Content/Character/Zombie/AnimBP_Zombie.uasset'
+[2018.08.07-16.57.24:427][ 13]BlueprintLog: New page: Compile Zombie_BP
+[2018.08.07-16.57.25:583][ 28]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Zombie_BP" FILE="../../../../../../Users/User/Desktop/Unreal Projects/Demo 4.20/Content/Blueprint/Zombie_BP.uasset" SILENT=true
+[2018.08.07-16.57.25:683][ 28]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Unreal Projects/Demo 4.20/Saved/Zombie_BPD4A476FA443D944957D14F8DCD406ED7.tmp' to '../../../../../../Users/User/Desktop/Unreal Projects/Demo 4.20/Content/Blueprint/Zombie_BP.uasset'
+[2018.08.07-16.58.02:140][176]LogAssetEditorManager: Opening Asset editor for BlendSpace1D /Game/Character/Zombie/BS_Zombie.BS_Zombie
+[2018.08.07-16.58.02:269][176]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.08.07-16.58.02:308][176]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.08.07-16.58.18:622][249]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.08.07-16.59.12:533][525]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Zombie/BS_Zombie" FILE="../../../../../../Users/User/Desktop/Unreal Projects/Demo 4.20/Content/Character/Zombie/BS_Zombie.uasset" SILENT=true
+[2018.08.07-16.59.12:568][525]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Unreal Projects/Demo 4.20/Saved/BS_ZombieCF5FBCD844A08FE92D6C93B356F9145F.tmp' to '../../../../../../Users/User/Desktop/Unreal Projects/Demo 4.20/Content/Character/Zombie/BS_Zombie.uasset'
+[2018.08.07-16.59.37:666][148]BlueprintLog: New page: Compile Zombie_BP
+[2018.08.07-17.00.58:486][661]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.08.07-17.00.59:490][661]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.08.07-17.01.00:493][662]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.08.07-17.01.06:224][676]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.08.07-17.01.07:226][676]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.08.07-17.01.08:231][677]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.08.07-17.01.14:393][685]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.08.07-17.01.15:396][685]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.08.07-17.01.16:402][686]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.08.07-17.01.24:145][725]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.08.07-17.01.36:865][788]LogSlate: Window 'Save Content' being destroyed
+[2018.08.07-17.01.36:881][788]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/minimon_BP" FILE="../../../../../../Users/User/Desktop/Unreal Projects/Demo 4.20/Content/Blueprint/minimon_BP.uasset" SILENT=true
+[2018.08.07-17.01.36:913][788]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Unreal Projects/Demo 4.20/Saved/minimon_BP105FF2ED4D9891B2976452A3EFC6C855.tmp' to '../../../../../../Users/User/Desktop/Unreal Projects/Demo 4.20/Content/Blueprint/minimon_BP.uasset'
+[2018.08.07-17.01.37:086][788]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Zombie_BP" FILE="../../../../../../Users/User/Desktop/Unreal Projects/Demo 4.20/Content/Blueprint/Zombie_BP.uasset" SILENT=true
+[2018.08.07-17.01.37:179][788]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Unreal Projects/Demo 4.20/Saved/Zombie_BP953BA477446DD74491BC9BA2306159EC.tmp' to '../../../../../../Users/User/Desktop/Unreal Projects/Demo 4.20/Content/Blueprint/Zombie_BP.uasset'
+[2018.08.07-17.01.37:337][788]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Zombie/AnimBP_Zombie" FILE="../../../../../../Users/User/Desktop/Unreal Projects/Demo 4.20/Content/Character/Zombie/AnimBP_Zombie.uasset" SILENT=true
+[2018.08.07-17.01.37:425][788]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Unreal Projects/Demo 4.20/Saved/AnimBP_ZombieCF5529AA42AF6F0F8ACC29BD13B298E0.tmp' to '../../../../../../Users/User/Desktop/Unreal Projects/Demo 4.20/Content/Character/Zombie/AnimBP_Zombie.uasset'
+[2018.08.07-17.01.37:452][788]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Zombie/BS_Zombie" FILE="../../../../../../Users/User/Desktop/Unreal Projects/Demo 4.20/Content/Character/Zombie/BS_Zombie.uasset" SILENT=true
+[2018.08.07-17.01.37:469][788]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Unreal Projects/Demo 4.20/Saved/BS_Zombie6DF640944E96FE26F104E7B984DFB225.tmp' to '../../../../../../Users/User/Desktop/Unreal Projects/Demo 4.20/Content/Character/Zombie/BS_Zombie.uasset'
+[2018.08.07-17.01.38:059][788]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Unreal Projects/Demo 4.20/Saved/FirstPersonExampleMap736AECD14480A8EC2241DD920836E5F5.tmp' to '../../../../../../Users/User/Desktop/Unreal Projects/Demo 4.20/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.08.07-17.01.38:119][788]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.633
+[2018.08.07-17.01.39:721][793]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.07-17.01.39:761][793]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.08.07-17.01.39:761][793]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.08.07-17.01.39:772][793]LogPlayLevel: [PlayLevel] Compiling AnimBP_Zombie before play...
+[2018.08.07-17.01.39:986][793]LogPlayLevel: PlayLevel: Blueprint regeneration took 226 ms (1 blueprints)
+[2018.08.07-17.01.39:986][793]PIE: New page: PIE session: FirstPersonExampleMap (Aug 7, 2018, 9:01:39 PM)
+[2018.08.07-17.01.39:987][793]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.08.07-17.01.40:008][793]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020739s)
+[2018.08.07-17.01.40:008][793]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.08.07-17.01.40:009][793]LogPlayLevel: PIE: World Init took: (0.000813s)
+[2018.08.07-17.01.40:009][793]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.021765s)
+[2018.08.07-17.01.40:046][793]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.07-17.01.40:054][793]LogInit: FAudioDevice initialized.
+[2018.08.07-17.01.40:088][793]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.08.07-17.01.40:092][793]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.08.07-19.01.40
+[2018.08.07-17.01.40:093][793]LogWorld: Bringing up level for play took: 0.004419
+[2018.08.07-17.01.40:118][793]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.324
+[2018.08.07-17.01.40:118][793]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.08.07-17.01.40:119][793]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.01.40:119][793]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.01.40:148][794]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.01.40:148][794]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.01.40:810][795]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.01.40:823][796]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.01.41:315][797]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.08.07-17.01.41:814][797]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.08.07-17.01.42:245][797]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.01.42:449][798]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.01.42:650][799]LogScript: Warning: Script Msg: Modulo by zero
+[2018.08.07-17.01.42:650][799]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.01.42:650][799]LogScript: Warning: Script Msg: Modulo by zero
+[2018.08.07-17.01.42:854][800]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.01.43:054][801]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.01.43:258][802]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.01.43:461][803]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.01.43:665][804]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.01.43:867][805]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.01.44:071][806]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.01.44:300][807]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.01.44:507][808]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.01.44:714][809]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.01.44:714][809]LogScript: Warning: Script Msg: Modulo by zero
+[2018.08.07-17.01.44:919][810]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.01.45:149][811]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.01.45:359][812]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.01.45:591][813]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.01.45:797][814]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.01.46:029][815]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.01.46:262][816]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.01.46:494][817]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.01.46:723][818]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.01.46:723][818]LogScript: Warning: Script Msg: Modulo by zero
+[2018.08.07-17.01.46:955][819]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.01.47:187][820]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.01.47:418][821]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.01.47:628][822]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.01.47:859][823]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.01.48:092][824]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.01.48:320][825]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.01.48:549][826]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.01.48:759][827]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.01.48:759][827]LogScript: Warning: Script Msg: Modulo by zero
+[2018.08.07-17.01.48:991][828]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.01.49:200][829]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.01.49:429][830]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.01.49:660][831]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.01.49:891][832]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.01.50:121][833]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.01.50:349][834]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.01.50:558][835]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.01.50:789][836]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.01.50:789][836]LogScript: Warning: Script Msg: Modulo by zero
+[2018.08.07-17.01.51:018][837]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.01.51:251][838]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.01.51:483][839]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.01.51:693][840]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.01.51:896][841]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.01.52:127][842]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.01.52:336][843]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.01.52:567][844]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.01.52:774][845]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.01.53:003][846]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.01.53:003][846]LogScript: Warning: Script Msg: Modulo by zero
+[2018.08.07-17.01.53:212][847]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.01.53:422][848]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.01.53:632][849]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.01.53:863][850]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.01.54:098][851]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.01.54:340][852]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.01.54:582][853]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.01.54:803][854]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.01.55:046][855]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.01.55:047][855]LogScript: Warning: Script Msg: Modulo by zero
+[2018.08.07-17.01.55:289][856]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.01.55:532][857]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.01.55:751][858]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.01.55:991][859]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.01.56:231][860]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.01.56:451][861]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.01.56:692][862]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.01.56:930][863]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.01.57:146][864]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.01.57:147][864]LogScript: Warning: Script Msg: Modulo by zero
+[2018.08.07-17.01.57:386][865]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.01.57:627][866]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.01.57:866][867]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.01.58:106][868]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.01.58:346][869]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.01.58:564][870]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.01.58:806][871]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.01.59:281][872]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.01.59:294][873]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.01.59:294][873]LogScript: Warning: Script Msg: Modulo by zero
+[2018.08.07-17.01.59:497][874]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.01.59:740][875]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.01.59:981][876]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.02.00:198][877]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.02.00:442][878]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.02.00:682][879]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.02.00:902][880]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.02.01:143][881]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.02.01:383][882]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.02.01:384][882]LogScript: Warning: Script Msg: Modulo by zero
+[2018.08.07-17.02.01:624][883]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.02.01:867][884]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.02.02:082][885]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.02.02:323][886]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.02.02:565][887]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.02.02:784][888]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.02.03:027][889]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.02.03:267][890]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.02.03:510][891]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.02.03:510][891]LogScript: Warning: Script Msg: Modulo by zero
+[2018.08.07-17.02.03:726][892]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.02.03:967][893]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.02.04:208][894]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.02.04:450][895]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.02.04:691][896]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.02.04:933][897]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.02.05:175][898]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.02.05:393][899]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.02.05:632][900]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.02.05:632][900]LogScript: Warning: Script Msg: Modulo by zero
+[2018.08.07-17.02.05:875][901]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.02.06:114][902]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.02.06:334][903]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.02.06:575][904]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.02.06:821][905]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.02.07:064][906]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.02.07:283][907]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.02.07:525][908]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.02.07:768][909]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.02.07:768][909]LogScript: Warning: Script Msg: Modulo by zero
+[2018.08.07-17.02.08:008][910]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.02.08:251][911]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.02.08:495][912]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.02.08:738][913]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.02.08:981][914]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.02.09:227][915]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.02.09:471][916]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.02.09:716][917]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.02.09:959][918]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.02.09:960][918]LogScript: Warning: Script Msg: Modulo by zero
+[2018.08.07-17.02.10:203][919]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.02.10:446][920]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.02.10:665][921]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.02.10:908][922]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.02.11:152][923]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.02.11:393][924]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.02.11:634][925]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.02.11:879][926]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.02.12:124][927]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.02.12:124][927]LogScript: Warning: Script Msg: Modulo by zero
+[2018.08.07-17.02.12:365][928]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.02.12:606][929]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.02.12:850][930]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.02.12:852][930]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.08.07-17.02.12:852][930]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.07-17.02.13:139][930]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.07-17.02.13:139][930]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.08.07-17.02.13:174][930]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.07-17.02.13:567][931]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2018.08.07-17.02.29:973][986]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.07-17.03.05:980][334]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.08.07-17.03.06:482][335]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.08.07-17.03.48:201][603]BlueprintLog: New page: Compile AnimBP_Zombie
+[2018.08.07-17.03.50:334][612]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Zombie/AnimBP_Zombie" FILE="../../../../../../Users/User/Desktop/Unreal Projects/Demo 4.20/Content/Character/Zombie/AnimBP_Zombie.uasset" SILENT=true
+[2018.08.07-17.03.50:419][612]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Unreal Projects/Demo 4.20/Saved/AnimBP_ZombieA9C657F445243220BF1B12A8C2095E0A.tmp' to '../../../../../../Users/User/Desktop/Unreal Projects/Demo 4.20/Content/Character/Zombie/AnimBP_Zombie.uasset'
+[2018.08.07-17.04.13:798][  9]LogAssetEditorManager: Opening Asset editor for BlendSpace1D /Game/Character/Zombie/BS_Zombie.BS_Zombie
+[2018.08.07-17.04.13:893][  9]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.08.07-17.04.13:931][  9]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.08.07-17.04.15:861][ 12]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.08.07-17.04.27:194][ 70]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.08.07-17.04.33:330][102]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.08.07-17.04.36:156][114]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Zombie/BS_Zombie" FILE="../../../../../../Users/User/Desktop/Unreal Projects/Demo 4.20/Content/Character/Zombie/BS_Zombie.uasset" SILENT=true
+[2018.08.07-17.04.36:187][114]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Unreal Projects/Demo 4.20/Saved/BS_ZombieA348EAC84B3D2A50F0CF6C84D5199BCB.tmp' to '../../../../../../Users/User/Desktop/Unreal Projects/Demo 4.20/Content/Character/Zombie/BS_Zombie.uasset'
+[2018.08.07-17.04.48:190][156]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.07-17.04.48:227][156]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.08.07-17.04.48:227][156]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.07-17.04.48:227][156]PIE: New page: PIE session: FirstPersonExampleMap (Aug 7, 2018, 9:04:48 PM)
+[2018.08.07-17.04.48:227][156]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.08.07-17.04.48:250][156]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022334s)
+[2018.08.07-17.04.48:251][156]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.08.07-17.04.48:251][156]LogPlayLevel: PIE: World Init took: (0.000824s)
+[2018.08.07-17.04.48:251][156]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.023364s)
+[2018.08.07-17.04.48:289][156]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.07-17.04.48:298][156]LogInit: FAudioDevice initialized.
+[2018.08.07-17.04.48:965][156]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.08.07-17.04.48:969][156]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.08.07-19.04.48
+[2018.08.07-17.04.48:970][156]LogWorld: Bringing up level for play took: 0.003894
+[2018.08.07-17.04.48:995][156]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 1.2
+[2018.08.07-17.04.48:995][156]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.08.07-17.04.48:996][156]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.04.48:997][156]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.04.49:023][157]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.04.49:023][157]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.04.49:890][158]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.04.49:890][158]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.04.49:902][159]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.04.50:396][160]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.04.50:599][161]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.04.50:803][162]LogScript: Warning: Script Msg: Modulo by zero
+[2018.08.07-17.04.50:803][162]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.04.50:803][162]LogScript: Warning: Script Msg: Modulo by zero
+[2018.08.07-17.04.51:007][163]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.04.51:212][164]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.04.51:414][165]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.04.51:618][166]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.04.51:821][167]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.04.52:024][168]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.04.52:227][169]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.04.52:432][170]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.04.52:635][171]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.04.52:840][172]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.04.52:840][172]LogScript: Warning: Script Msg: Modulo by zero
+[2018.08.07-17.04.53:043][173]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.04.53:243][174]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.04.53:447][175]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.04.53:652][176]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.04.53:856][177]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.04.54:059][178]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.04.54:262][179]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.04.54:466][180]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.04.54:671][181]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.04.54:874][182]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.04.54:874][182]LogScript: Warning: Script Msg: Modulo by zero
+[2018.08.07-17.04.55:078][183]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.04.55:283][184]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.04.55:487][185]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.04.55:690][186]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.04.55:893][187]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.04.56:099][188]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.04.56:302][189]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.04.56:505][190]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.04.56:735][191]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.04.56:941][192]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.04.56:941][192]LogScript: Warning: Script Msg: Modulo by zero
+[2018.08.07-17.04.57:170][193]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.04.57:378][194]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.04.57:587][195]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.04.57:797][196]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.04.58:005][197]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.04.58:214][198]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.04.58:423][199]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.04.58:631][200]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.04.58:840][201]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.04.59:048][202]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.04.59:048][202]LogScript: Warning: Script Msg: Modulo by zero
+[2018.08.07-17.04.59:256][203]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.04.59:466][204]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.04.59:673][205]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.04.59:882][206]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.05.00:090][207]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.05.00:321][208]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.05.00:529][209]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.05.00:737][210]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.05.00:947][211]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.05.01:156][212]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.05.01:157][212]LogScript: Warning: Script Msg: Modulo by zero
+[2018.08.07-17.05.01:365][213]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.05.01:573][214]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.05.01:783][215]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.05.01:991][216]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.05.02:199][217]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.05.02:408][218]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.05.02:644][219]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.05.02:877][220]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.05.03:091][221]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.05.03:304][222]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.05.03:305][222]LogScript: Warning: Script Msg: Modulo by zero
+[2018.08.07-17.05.03:537][223]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.05.03:752][224]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.05.03:995][225]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.05.04:222][226]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.05.04:470][227]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.05.04:714][228]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.05.04:956][229]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.05.05:172][230]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.05.05:385][231]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.05.05:385][231]LogScript: Warning: Script Msg: Modulo by zero
+[2018.08.07-17.05.05:599][232]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.05.05:817][233]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.05.06:055][234]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.05.06:297][235]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.05.06:536][236]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.05.06:754][237]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.05.06:995][238]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.05.07:215][239]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.05.07:454][240]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.05.07:455][240]LogScript: Warning: Script Msg: Modulo by zero
+[2018.08.07-17.05.07:668][241]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.05.07:882][242]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.05.08:118][243]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.05.08:328][244]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.05.09:610][250]LogScript: Warning: Script Msg: Modulo by zero
+[2018.08.07-17.05.15:064][273]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.05.15:310][274]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PatrolPoints' of length 0 in '/Game/Blueprint/Zombie_BP.Zombie_BP_C'!
+[2018.08.07-17.05.16:975][281]LogScript: Warning: Script Msg: Modulo by zero
+[2018.08.07-17.05.26:710][321]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.08.07-17.05.26:710][321]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.07-17.05.26:995][321]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.07-17.05.26:995][321]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.08.07-17.05.27:032][321]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.07-17.05.27:063][322]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2018.08.07-17.05.44:607][403]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.07-17.05.46:855][413]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.08.07-17.05.47:497][413]LogSlate: Window 'Demo - Unreal Editor' being destroyed
+[2018.08.07-17.05.47:761][414]Cmd: QUIT_EDITOR
+[2018.08.07-17.05.48:210][414]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.08.07-17.05.48:227][414]LogExit: Preparing to exit.
+[2018.08.07-17.05.48:809][414]LogExit: Editor shut down
+[2018.08.07-17.05.48:810][414]LogExit: Transaction tracking system shut down
+[2018.08.07-17.05.49:366][414]LogExit: Object subsystem successfully closed.
+[2018.08.07-17.05.49:392][414]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.08.07-17.05.49:400][414]LogD3D11RHI: Shutdown
+[2018.08.07-17.05.49:400][414]LogD3D11RHI: CleanupD3DDevice
+[2018.08.07-17.05.49:409][414]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.08.07-17.05.49:451][414]LogModuleManager: Shutting down and abandoning module AnimationEditor (628)
+[2018.08.07-17.05.49:451][414]LogModuleManager: Shutting down and abandoning module ClothingSystemEditorInterface (626)
+[2018.08.07-17.05.49:451][414]LogModuleManager: Shutting down and abandoning module PinnedCommandList (624)
+[2018.08.07-17.05.49:451][414]LogModuleManager: Shutting down and abandoning module SkeletonEditor (622)
+[2018.08.07-17.05.49:451][414]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (620)
+[2018.08.07-17.05.49:452][414]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (618)
+[2018.08.07-17.05.49:452][414]LogModuleManager: Shutting down and abandoning module Voice (616)
+[2018.08.07-17.05.49:452][414]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (614)
+[2018.08.07-17.05.49:452][414]LogModuleManager: Shutting down and abandoning module BlueprintGraph (612)
+[2018.08.07-17.05.49:452][414]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (610)
+[2018.08.07-17.05.49:452][414]LogModuleManager: Shutting down and abandoning module SceneOutliner (608)
+[2018.08.07-17.05.49:452][414]LogModuleManager: Shutting down and abandoning module AddContentDialog (606)
+[2018.08.07-17.05.49:456][414]LogModuleManager: Shutting down and abandoning module WidgetCarousel (605)
+[2018.08.07-17.05.49:456][414]LogModuleManager: Shutting down and abandoning module EditorWidgets (602)
+[2018.08.07-17.05.49:456][414]LogModuleManager: Shutting down and abandoning module CollectionManager (600)
+[2018.08.07-17.05.49:456][414]LogModuleManager: Shutting down and abandoning module StatsViewer (598)
+[2018.08.07-17.05.49:456][414]LogModuleManager: Shutting down and abandoning module FoliageEdit (596)
+[2018.08.07-17.05.49:456][414]LogModuleManager: Shutting down and abandoning module LandscapeEditor (594)
+[2018.08.07-17.05.49:456][414]LogModuleManager: Shutting down and abandoning module MeshPaintMode (592)
+[2018.08.07-17.05.49:456][414]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (590)
+[2018.08.07-17.05.49:456][414]LogModuleManager: Shutting down and abandoning module ActorPickerMode (588)
+[2018.08.07-17.05.49:456][414]LogModuleManager: Shutting down and abandoning module GeometryMode (586)
+[2018.08.07-17.05.49:456][414]LogModuleManager: Shutting down and abandoning module TextureAlignMode (584)
+[2018.08.07-17.05.49:456][414]LogModuleManager: Shutting down and abandoning module BspMode (582)
+[2018.08.07-17.05.49:456][414]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (580)
+[2018.08.07-17.05.49:457][414]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (578)
+[2018.08.07-17.05.49:457][414]LogModuleManager: Shutting down and abandoning module AutomationWorker (576)
+[2018.08.07-17.05.49:457][414]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (574)
+[2018.08.07-17.05.49:457][414]LogModuleManager: Shutting down and abandoning module SequenceRecorder (573)
+[2018.08.07-17.05.49:457][414]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (570)
+[2018.08.07-17.05.49:457][414]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (568)
+[2018.08.07-17.05.49:457][414]LogModuleManager: Shutting down and abandoning module PlacementMode (567)
+[2018.08.07-17.05.49:457][414]LogModuleManager: Shutting down and abandoning module MaterialEditor (566)
+[2018.08.07-17.05.49:457][414]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (562)
+[2018.08.07-17.05.49:457][414]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (560)
+[2018.08.07-17.05.49:457][414]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (558)
+[2018.08.07-17.05.49:457][414]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (556)
+[2018.08.07-17.05.49:457][414]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (554)
+[2018.08.07-17.05.49:457][414]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (552)
+[2018.08.07-17.05.49:457][414]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (550)
+[2018.08.07-17.05.49:457][414]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (548)
+[2018.08.07-17.05.49:457][414]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (546)
+[2018.08.07-17.05.49:457][414]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (544)
+[2018.08.07-17.05.49:457][414]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (542)
+[2018.08.07-17.05.49:457][414]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (540)
+[2018.08.07-17.05.49:457][414]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (538)
+[2018.08.07-17.05.49:457][414]LogModuleManager: Shutting down and abandoning module CharacterAI (536)
+[2018.08.07-17.05.49:457][414]LogModuleManager: Shutting down and abandoning module SmartSnapping (534)
+[2018.08.07-17.05.49:457][414]LogModuleManager: Shutting down and abandoning module SessionServices (532)
+[2018.08.07-17.05.49:457][414]LogModuleManager: Shutting down and abandoning module ViewportSnapping (530)
+[2018.08.07-17.05.49:458][414]LogModuleManager: Shutting down and abandoning module ViewportInteraction (528)
+[2018.08.07-17.05.49:458][414]LogModuleManager: Shutting down and abandoning module ClothPainter (526)
+[2018.08.07-17.05.49:458][414]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (525)
+[2018.08.07-17.05.49:458][414]LogModuleManager: Shutting down and abandoning module LogVisualizer (522)
+[2018.08.07-17.05.49:458][414]LogModuleManager: Shutting down and abandoning module IntroTutorials (520)
+[2018.08.07-17.05.49:458][414]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (519)
+[2018.08.07-17.05.49:458][414]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (516)
+[2018.08.07-17.05.49:458][414]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (514)
+[2018.08.07-17.05.49:458][414]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (512)
+[2018.08.07-17.05.49:458][414]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (510)
+[2018.08.07-17.05.49:458][414]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (509)
+[2018.08.07-17.05.51:299][414]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (506)
+[2018.08.07-17.05.51:299][414]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (504)
+[2018.08.07-17.05.51:299][414]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (502)
+[2018.08.07-17.05.51:300][414]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (500)
+[2018.08.07-17.05.51:300][414]LogModuleManager: Shutting down and abandoning module InputBindingEditor (498)
+[2018.08.07-17.05.51:300][414]LogModuleManager: Shutting down and abandoning module MergeActors (496)
+[2018.08.07-17.05.51:300][414]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (494)
+[2018.08.07-17.05.51:300][414]LogModuleManager: Shutting down and abandoning module LocalizationService (493)
+[2018.08.07-17.05.51:300][414]LogModuleManager: Shutting down and abandoning module HardwareTargeting (490)
+[2018.08.07-17.05.51:300][414]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (488)
+[2018.08.07-17.05.51:300][414]LogModuleManager: Shutting down and abandoning module UndoHistory (486)
+[2018.08.07-17.05.51:300][414]LogModuleManager: Shutting down and abandoning module XmlParser (484)
+[2018.08.07-17.05.51:300][414]LogModuleManager: Shutting down and abandoning module Blutility (482)
+[2018.08.07-17.05.51:300][414]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (480)
+[2018.08.07-17.05.51:300][414]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (479)
+[2018.08.07-17.05.51:300][414]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (476)
+[2018.08.07-17.05.51:300][414]LogModuleManager: Shutting down and abandoning module SettingsEditor (474)
+[2018.08.07-17.05.51:300][414]LogModuleManager: Shutting down and abandoning module ProjectLauncher (472)
+[2018.08.07-17.05.51:300][414]LogModuleManager: Shutting down and abandoning module SessionFrontend (470)
+[2018.08.07-17.05.51:300][414]LogModuleManager: Shutting down and abandoning module ProfilerClient (468)
+[2018.08.07-17.05.51:300][414]LogModuleManager: Shutting down and abandoning module DeviceManager (466)
+[2018.08.07-17.05.51:301][414]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (465)
+[2018.08.07-17.05.51:356][414]LogModuleManager: Shutting down and abandoning module AutomationController (462)
+[2018.08.07-17.05.51:356][414]LogModuleManager: Shutting down and abandoning module AutomationWindow (460)
+[2018.08.07-17.05.51:356][414]LogModuleManager: Shutting down and abandoning module Layers (458)
+[2018.08.07-17.05.51:356][414]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (456)
+[2018.08.07-17.05.51:356][414]LogModuleManager: Shutting down and abandoning module DetailCustomizations (454)
+[2018.08.07-17.05.51:356][414]LogModuleManager: Shutting down and abandoning module PackagesDialog (452)
+[2018.08.07-17.05.51:356][414]LogModuleManager: Shutting down and abandoning module Persona (450)
+[2018.08.07-17.05.51:356][414]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (449)
+[2018.08.07-17.05.51:356][414]LogModuleManager: Shutting down and abandoning module AnimGraph (447)
+[2018.08.07-17.05.51:356][414]LogModuleManager: Shutting down and abandoning module Kismet (444)
+[2018.08.07-17.05.51:366][414]LogModuleManager: Shutting down and abandoning module GraphEditor (442)
+[2018.08.07-17.05.51:366][414]LogModuleManager: Shutting down and abandoning module ClassViewer (440)
+[2018.08.07-17.05.51:368][414]LogModuleManager: Shutting down and abandoning module Toolbox (438)
+[2018.08.07-17.05.51:368][414]LogModuleManager: Shutting down and abandoning module ModuleUI (436)
+[2018.08.07-17.05.51:368][414]LogModuleManager: Shutting down and abandoning module MovieSceneTools (434)
+[2018.08.07-17.05.51:368][414]LogModuleManager: Shutting down and abandoning module OutputLog (432)
+[2018.08.07-17.05.51:368][414]LogModuleManager: Shutting down and abandoning module GammaUI (430)
+[2018.08.07-17.05.51:368][414]LogModuleManager: Shutting down and abandoning module Documentation (428)
+[2018.08.07-17.05.51:368][414]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (426)
+[2018.08.07-17.05.51:368][414]LogModuleManager: Shutting down and abandoning module MovieScene (424)
+[2018.08.07-17.05.51:368][414]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (422)
+[2018.08.07-17.05.51:368][414]LogModuleManager: Shutting down and abandoning module LauncherPlatform (420)
+[2018.08.07-17.05.51:368][414]LogModuleManager: Shutting down and abandoning module AnalyticsET (418)
+[2018.08.07-17.05.51:368][414]LogModuleManager: Shutting down and abandoning module PortalServices (416)
+[2018.08.07-17.05.51:368][414]LogModuleManager: Shutting down and abandoning module PortalRpc (414)
+[2018.08.07-17.05.51:368][414]LogModuleManager: Shutting down and abandoning module MessagingRpc (412)
+[2018.08.07-17.05.51:369][414]LogModuleManager: Shutting down and abandoning module AIModule (410)
+[2018.08.07-17.05.51:369][414]LogModuleManager: Shutting down and abandoning module GameplayDebugger (409)
+[2018.08.07-17.05.51:369][414]LogModuleManager: Shutting down and abandoning module AITestSuite (407)
+[2018.08.07-17.05.51:369][414]LogModuleManager: Shutting down and abandoning module NavigationSystem (405)
+[2018.08.07-17.05.51:369][414]LogModuleManager: Shutting down and abandoning module DesktopPlatform (402)
+[2018.08.07-17.05.51:369][414]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2018.08.07-17.05.51:371][414]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2018.08.07-17.05.51:371][414]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2018.08.07-17.05.51:371][414]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2018.08.07-17.05.51:371][414]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2018.08.07-17.05.51:371][414]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2018.08.07-17.05.51:372][414]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2018.08.07-17.05.51:372][414]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2018.08.07-17.05.51:372][414]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2018.08.07-17.05.51:372][414]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2018.08.07-17.05.51:372][414]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2018.08.07-17.05.51:372][414]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2018.08.07-17.05.51:372][414]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2018.08.07-17.05.51:372][414]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2018.08.07-17.05.51:372][414]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2018.08.07-17.05.51:372][414]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (370)
+[2018.08.07-17.05.51:372][414]LogModuleManager: Shutting down and abandoning module MediaCompositing (368)
+[2018.08.07-17.05.51:372][414]LogModuleManager: Shutting down and abandoning module LinearTimecode (366)
+[2018.08.07-17.05.51:372][414]LogModuleManager: Shutting down and abandoning module ImgMedia (364)
+[2018.08.07-17.05.51:375][414]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2018.08.07-17.05.51:375][414]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2018.08.07-17.05.51:375][414]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2018.08.07-17.05.51:375][414]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2018.08.07-17.05.51:375][414]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2018.08.07-17.05.51:375][414]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2018.08.07-17.05.51:375][414]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2018.08.07-17.05.51:375][414]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2018.08.07-17.05.51:375][414]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2018.08.07-17.05.51:375][414]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2018.08.07-17.05.51:375][414]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2018.08.07-17.05.51:375][414]LogModuleManager: Shutting down and abandoning module DatasmithContent (340)
+[2018.08.07-17.05.51:376][414]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2018.08.07-17.05.51:376][414]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2018.08.07-17.05.51:376][414]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2018.08.07-17.05.51:376][414]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2018.08.07-17.05.51:376][414]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2018.08.07-17.05.51:376][414]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2018.08.07-17.05.51:376][414]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2018.08.07-17.05.51:376][414]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2018.08.07-17.05.51:376][414]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2018.08.07-17.05.51:377][414]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2018.08.07-17.05.51:377][414]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2018.08.07-17.05.51:377][414]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2018.08.07-17.05.51:377][414]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2018.08.07-17.05.51:377][414]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2018.08.07-17.05.51:377][414]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2018.08.07-17.05.51:377][414]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2018.08.07-17.05.51:377][414]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2018.08.07-17.05.51:377][414]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2018.08.07-17.05.51:377][414]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2018.08.07-17.05.51:377][414]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2018.08.07-17.05.51:377][414]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2018.08.07-17.05.51:377][414]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2018.08.07-17.05.51:377][414]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2018.08.07-17.05.51:377][414]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2018.08.07-17.05.51:377][414]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2018.08.07-17.05.51:377][414]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2018.08.07-17.05.51:377][414]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2018.08.07-17.05.51:377][414]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2018.08.07-17.05.51:377][414]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2018.08.07-17.05.51:478][414]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2018.08.07-17.05.51:579][414]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2018.08.07-17.05.51:579][414]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2018.08.07-17.05.51:579][414]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2018.08.07-17.05.51:579][414]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2018.08.07-17.05.51:579][414]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2018.08.07-17.05.51:579][414]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2018.08.07-17.05.51:579][414]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2018.08.07-17.05.51:580][414]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2018.08.07-17.05.51:580][414]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2018.08.07-17.05.51:581][414]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2018.08.07-17.05.51:581][414]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2018.08.07-17.05.51:581][414]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2018.08.07-17.05.51:583][414]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2018.08.07-17.05.51:583][414]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2018.08.07-17.05.51:583][414]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2018.08.07-17.05.51:583][414]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2018.08.07-17.05.51:583][414]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2018.08.07-17.05.51:583][414]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2018.08.07-17.05.51:585][414]LogModuleManager: Shutting down and abandoning module Media (243)
+[2018.08.07-17.05.51:591][414]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2018.08.07-17.05.51:591][414]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2018.08.07-17.05.51:591][414]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2018.08.07-17.05.51:591][414]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2018.08.07-17.05.51:591][414]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2018.08.07-17.05.51:591][414]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2018.08.07-17.05.51:591][414]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2018.08.07-17.05.51:591][414]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2018.08.07-17.05.51:591][414]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2018.08.07-17.05.51:591][414]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2018.08.07-17.05.51:591][414]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2018.08.07-17.05.51:591][414]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2018.08.07-17.05.51:591][414]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2018.08.07-17.05.51:592][414]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2018.08.07-17.05.51:592][414]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2018.08.07-17.05.51:592][414]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2018.08.07-17.05.51:592][414]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2018.08.07-17.05.51:592][414]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2018.08.07-17.05.51:592][414]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2018.08.07-17.05.51:592][414]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2018.08.07-17.05.51:594][414]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2018.08.07-17.05.51:594][414]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2018.08.07-17.05.51:594][414]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2018.08.07-17.05.51:594][414]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2018.08.07-17.05.51:594][414]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2018.08.07-17.05.51:594][414]LogModuleManager: Shutting down and abandoning module Core (188)
+[2018.08.07-17.05.51:594][414]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2018.08.07-17.05.51:594][414]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2018.08.07-17.05.51:595][414]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2018.08.07-17.05.51:595][414]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2018.08.07-17.05.51:595][414]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2018.08.07-17.05.51:595][414]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2018.08.07-17.05.51:595][414]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2018.08.07-17.05.51:595][414]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2018.08.07-17.05.51:595][414]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2018.08.07-17.05.51:595][414]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2018.08.07-17.05.51:595][414]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2018.08.07-17.05.51:596][414]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2018.08.07-17.05.51:629][414]LogDerivedDataCache: Shutdown
+[2018.08.07-17.05.51:629][414]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2018.08.07-17.05.51:630][414]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2018.08.07-17.05.51:630][414]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2018.08.07-17.05.51:630][414]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2018.08.07-17.05.51:630][414]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2018.08.07-17.05.51:630][414]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2018.08.07-17.05.51:630][414]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2018.08.07-17.05.51:630][414]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2018.08.07-17.05.51:630][414]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2018.08.07-17.05.51:630][414]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2018.08.07-17.05.51:630][414]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2018.08.07-17.05.51:630][414]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2018.08.07-17.05.51:630][414]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2018.08.07-17.05.51:630][414]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2018.08.07-17.05.51:630][414]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2018.08.07-17.05.51:630][414]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2018.08.07-17.05.51:630][414]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2018.08.07-17.05.51:630][414]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2018.08.07-17.05.51:630][414]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2018.08.07-17.05.51:630][414]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2018.08.07-17.05.51:630][414]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2018.08.07-17.05.51:631][414]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2018.08.07-17.05.51:631][414]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2018.08.07-17.05.51:638][414]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2018.08.07-17.05.51:638][414]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2018.08.07-17.05.51:643][414]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2018.08.07-17.05.51:643][414]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2018.08.07-17.05.51:676][414]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2018.08.07-17.05.51:676][414]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2018.08.07-17.05.51:676][414]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2018.08.07-17.05.51:676][414]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2018.08.07-17.05.51:676][414]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2018.08.07-17.05.51:676][414]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2018.08.07-17.05.51:676][414]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2018.08.07-17.05.51:676][414]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2018.08.07-17.05.51:676][414]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2018.08.07-17.05.51:676][414]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2018.08.07-17.05.51:677][414]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2018.08.07-17.05.51:677][414]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2018.08.07-17.05.51:677][414]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2018.08.07-17.05.51:677][414]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2018.08.07-17.05.51:677][414]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2018.08.07-17.05.51:677][414]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2018.08.07-17.05.51:677][414]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2018.08.07-17.05.51:677][414]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2018.08.07-17.05.51:678][414]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2018.08.07-17.05.51:678][414]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2018.08.07-17.05.51:704][414]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2018.08.07-17.05.51:705][414]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.08.07-17.05.51:705][414]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9729FEC2-4893-6030-81E2-8798FCE747C5%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.1-4233996%2B%2B%2BUE4%2BRelease-4.20&UserID=4ce691c04f281cd212942f95c079b694%7Cb0e2bd38a99748d1bac89f9945205114%7C7390353f-078a-48b9-91f2-acd7cc8c8796&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.08.07-17.05.51:732][414]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2018.08.07-17.05.51:734][414]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2018.08.07-17.05.51:734][414]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2018.08.07-17.05.51:734][414]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2018.08.07-17.05.51:734][414]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2018.08.07-17.05.51:734][414]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2018.08.07-17.05.51:734][414]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2018.08.07-17.05.51:734][414]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2018.08.07-17.05.51:734][414]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2018.08.07-17.05.51:734][414]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2018.08.07-17.05.51:734][414]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.08.07-17.05.51:734][414]LogSlate: Slate User Destroyed.  User Index 1, Is Virtual User: 0
+[2018.08.07-17.05.51:735][414]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2018.08.07-17.05.51:735][414]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.08.07-17.05.51:735][414]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.08.07-17.05.51:735][414]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.08.07-17.05.51:735][414]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.08.07-17.05.51:735][414]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.08.07-17.05.51:735][414]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.08.07-17.05.51:735][414]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.08.07-17.05.51:737][414]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.08.07-17.05.51:737][414]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.08.07-17.05.51:737][414]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.08.07-17.05.51:737][414]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.08.07-17.05.51:737][414]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.08.07-17.05.51:737][414]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.08.07-17.05.51:737][414]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.08.07-17.05.51:737][414]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.08.07-17.05.51:737][414]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.08.07-17.05.51:737][414]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.08.07-17.05.51:737][414]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.08.07-17.05.51:741][414]LogExit: Exiting.
+[2018.08.07-17.05.51:756][414]Log file closed, 08/07/18 19:05:51
